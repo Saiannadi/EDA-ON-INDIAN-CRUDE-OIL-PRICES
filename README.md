@@ -39,8 +39,11 @@ To install the necessary libraries, you can use `pip`. Simply run:
 ```bash
 pip install matplotlib pandas plotly
 ```
-## Usage
-1.Clone the project repository.
-2.Navigate to the project directory.
-3.Run the EDA script.
+## Usage:
+
+  1.Clone the project repository.
+  
+  2.Navigate to the project directory.
+  
+  3.Run the EDA script.
 
