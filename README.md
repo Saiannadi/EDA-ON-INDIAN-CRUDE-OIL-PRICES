@@ -1,12 +1,46 @@
 # EDA-ON-INDIAN-CRUDE-OIL-PRICES
 
+## Overview
 
 Exploratory Data Analysis (EDA) on Indian crude oil prices is a comprehensive study that delves into the trends and patterns observed in the data obtained from the Petroleum Planning and Analysis Cell (PPAC). The dataset spans from the year 2000 to 2020, encompassing a significant period of time that allows for a thorough analysis of the crude oil price dynamics in India.
 
-The EDA begins by examining the basic statistics and distribution of the crude oil prices over the years. Utilizing the power of matplotlib.pyplot, various graphs such as line plots, histograms, and box plots are generated to visualize the overall price trends and identify any potential outliers or seasonality in the data. Additionally, plotly.express is leveraged to create interactive visualizations that enable a more in-depth exploration of the price movements over time.
+## Key Features
 
-One of the key aspects of the EDA is to analyze the impact of significant events, such as the COVID-19 pandemic, on crude oil prices. To achieve this, the data is segmented into two periods: before and after the onset of the pandemic. Comparative analysis using line plots and bar graphs helps to understand the drastic price fluctuations and demand-supply imbalances during this critical period.
+### 1. Basic Statistics and Distribution
 
-Further, the EDA investigates the correlation between crude oil prices and other economic indicators, such as GDP growth, inflation rates, and international oil prices. This analysis provides insights into the interdependencies between various factors that influence the fluctuations in Indian crude oil prices.
+- Examination of the basic statistics and distribution of crude oil prices over the years.
+- Utilization of matplotlib.pyplot to create line plots, histograms, and box plots for visualizing price trends and identifying outliers or seasonality.
 
-Overall, the EDA on Indian crude oil prices provides valuable insights into the historical trends, seasonal variations, and significant events that have shaped the dynamics of the country's oil market. The use of different graphical representations enhances the understanding of the data, while the focus on pre and post-COVID periods highlights the unique challenges and opportunities faced by the oil industry during this unprecedented time.
+### 2. Interactive Visualizations
+
+- Use of plotly.express to generate interactive visualizations for in-depth exploration of price movements over time.
+
+### 3. Impact Analysis of Significant Events
+
+- Segmentation of data into two periods: before and after the onset of significant events like the COVID-19 pandemic.
+- Comparative analysis using line plots and bar graphs to understand drastic price fluctuations and demand-supply imbalances during critical periods.
+
+### 4. Correlation with Economic Indicators
+
+- Investigation of the correlation between crude oil prices and economic indicators such as GDP growth, inflation rates, and international oil prices.
+- Insights into the interdependencies between various factors influencing fluctuations in Indian crude oil prices.
+
+## Getting Started
+
+To begin exploring Indian crude oil prices through EDA, follow these steps:
+
+1. **Installation:** Set up the required Python libraries.
+2. **Usage:** Run the EDA script and explore the trends and patterns in the dataset.
+
+## Installation
+
+To install the necessary libraries, you can use `pip`. Simply run:
+
+```bash
+pip install matplotlib pandas plotly
+```
+## Usage
+1.Clone the project repository.
+2.Navigate to the project directory.
+3.Run the EDA script.
+
