@@ -1,4 +1,4 @@
-# EDA-ON-INDIAN-CRUDE-OIL-PRICES
+# Exploratory-Data-Analysis-EDA-on-Indian-Crude-Oil-Prices
 
 ## Overview
 
